@@ -1,0 +1,226 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>William Penn and the Quaker in unity, the Anabaptist mistaken and in enmity, or, A brief reply to a sheet sent abroad by Jeremy Ives, entituled, William Penn's confutation of a Quaker, or, An answer to a late libel William Shewen.</title>
+            <author>Shewen, William, 1631?-1695.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1674</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 23 KB of XML-encoded text transcribed from 6 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2012-10">2012-10 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A59957</idno>
+            <idno type="STC">Wing S3427</idno>
+            <idno type="STC">ESTC R5116</idno>
+            <idno type="EEBO-CITATION">12898827</idno>
+            <idno type="OCLC">ocm 12898827</idno>
+            <idno type="VID">95220</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A59957)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 95220)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 728:16)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>William Penn and the Quaker in unity, the Anabaptist mistaken and in enmity, or, A brief reply to a sheet sent abroad by Jeremy Ives, entituled, William Penn's confutation of a Quaker, or, An answer to a late libel William Shewen.</title>
+                  <author>Shewen, William, 1631?-1695.</author>
+               </titleStmt>
+               <extent>11 p.   </extent>
+               <publicationStmt>
+                  <publisher>s.n.],</publisher>
+                  <pubPlace>[London :</pubPlace>
+                  <date>1674.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Answer to Jeremiah Ives' William Penn's confutation of a Quaker.</note>
+                  <note>Reproduction of original in Duke University Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Ives, Jeremiah, fl. 1653-1674. --  William Penn's confutation of a Quaker.</term>
+               <term>Society of Friends.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2009-09</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2009-10</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2011-11</date>
+            <label>Ali Jakobson</label>Sampled and proofread</change>
+         <change>
+            <date>2011-11</date>
+            <label>Ali Jakobson</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2012-05</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:95220:1"/>
+            <pb facs="tcp:95220:1" rendition="simple:additions"/>
+            <p>William Penn AND THE QUAKER IN UNITY, THE Anabaptiſt Miſtaken AND IN ENMITY OR, A Brief Reply to a Sheet ſent abroad by JEREMY IVES, Entituled, William Penn's <hi>Confutation of a</hi> Quaker: or, <hi>An Anſwer to a late Libel.</hi>
+            </p>
+            <p>
+               <hi>William Shewen.</hi>
+            </p>
+            <p>Printed in the Year 1674.</p>
+         </div>
+      </front>
+      <body>
+         <div type="text">
+            <pb facs="tcp:95220:2" rendition="simple:additions"/>
+            <pb n="3" facs="tcp:95220:2" rendition="simple:additions"/>
+            <head>William Penn and the Quaker IN UNITY, &amp;c.</head>
+            <p>TO paſs by his Recital of his former <hi>Goliah</hi> li<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>e Challenge (which he falſly calls <hi>A Sober Requeſt</hi>) in the Front of this Sheet, enough being ſaid to it already by ſeveral Pens, I proceed to conſider what follows, And I quickly find him under Grand Miſtakes or Wilful Ignorance: <hi>Firſt,</hi> In calling my Return to his Scandalous Paper a <hi>Libel,</hi> becauſe but the two prin<g ref="char:EOLhyphen"/>cipal Letters of my Name were at it; in this he deals not fairly, becauſe he might have known my Name for asking of the Perſon that gave him one of the Papers into his Hand, and ſo might ſeve<g ref="char:EOLhyphen"/>ral of his Brethren alſo. But further, thoſe Writings, or Printed Papers, where the two real Letters of the Author's Name is affixed are not to be called nor accounted Libels, eſpecially when the Name may be known for asking: Beſides, Reader, <hi>Jeremy</hi> hath contra<g ref="char:EOLhyphen"/>dicted and bewrayed himſelf in this very Sheet of his, as is mani<g ref="char:EOLhyphen"/>feſt by comparing Paragraph the 6th with the 2d; in the one he ſaith, He <hi>knoweth not who</hi> W. S. <hi>is:</hi> In the other he ſaith ſo much as may ſignifie he doth know; his words are thus, <hi>Some of thoſe Opinions of mine, which in</hi> HIS PAPER AND BOOK, <hi>entitu<g ref="char:EOLhyphen"/>led,</hi> The Univerſallity of the Light Aſſerted, <hi>he calls Abſurd and Ridiculous.</hi> Now my Name was at large to the Book, and <hi>W. S.</hi> to this Paper, and he himſelf calls them both mine; ſo its evident he was not ignorant of my Name (or if he was, it was Wilful Ig<g ref="char:EOLhyphen"/>norance) only he ſeems minded to make himſelf Sport in a <hi>Moun<g ref="char:EOLhyphen"/>tebank</hi> manner and to ſet it up for a Libel, and to bring <hi>William Penn</hi>'s words againſt a real Libel, to fight with it, in this he hath imitated his Brother <hi>Hicks,</hi> who formed and faſhioned a <hi>Quaker,</hi> and his Opinions, and then Dialogued with him, which is one of
+<pb n="4" facs="tcp:95220:3"/>the greateſt Abuſes among men, to preſent things contrary to what indeed they are, the practice of an arrant impoſtor.</p>
+            <p>Now as Writings are accounted no Libels, where the two Let<g ref="char:EOLhyphen"/>ters of the Authors Name is affixed; ſo it doth not always follow, that where a Name is at large to Books or Writings, that it is the Authors Name; for about the ſame time this Scandalous Paper of <hi>Jer. Jves</hi>'s came abroad, <hi>Richard Baxter,</hi> in a printed Sheet, warns People of two printed Papers under his Name at large, which he was not the Author of; ſo this <hi>Jer. Ives</hi> hath no ground to Carp and Jeer at my cautious Writing, and putting in theſe Words, <hi>Said to be,</hi> within a Parentheſis: for I ſay again, if I had not had ſome other Reaſons beſides his Name twice affixe, I might have endea<g ref="char:EOLhyphen"/>voured to have known it from himſelf, without deſerving to be charged with Impertinency, Guile or Blame; and he and the reſt of his Brothren would ſhew themſelves more like <hi>Chriſtians,</hi> if they would manifeſt the like Care and Circumſpection in what they father upon the <hi>Quakers.</hi>
+            </p>
+            <p>And now I would have the Reader clearly underſtand, that <hi>Wil<g ref="char:EOLhyphen"/>liam Penn</hi>'s Anſwer (which <hi>Jeremy</hi> eſpouſes and ſpeaks in againſt me) was not to ſuch a Sort of Paper, where the two Letters of the Authors Name was affixt, and might have been known ſon asking; he ſought and enquired, and could not learn it (neither would the <hi>Baptiſt,</hi> in whoſe Favour it ſeemed to be publiſhed, own it, nor diſcover the Author) therefore this <hi>Jeremy</hi> hath very fouly and evil<g ref="char:EOLhyphen"/>ly applyed his Words, and hath put this Caſe in its ſtead without the like Reaſon or Ground; herein he hath dealt more like a <hi>Forger,</hi> then a fair Adverſary; and were he of a tender Spirit, and his Con<g ref="char:EOLhyphen"/>ſcience rightly informed, I would appeal unto him to anſwer, whe<g ref="char:EOLhyphen"/>ther he is not conſcious of his Guilt herein: I do tell him and the World, that I had no Deſign to conceal my Name; though <hi>W. S.</hi> was only in the Copy, yet I gave the Printer expreſs Order to put my Name at length, though he omitted it, for which I blamed him: It might have prevented <hi>Jeremy</hi> of a colourable Pretence for the chiefeſt Matter in his Anſwer. But however, the World cannot ſee, nor truly ſay, as he falſly inſinuates, <hi>That the</hi> Quakers <hi>allow Nameleſs Libels to blaſt their Adverſaries, and he hath no Proof for it, being never their Practice.</hi>
+            </p>
+            <p>Now Reader, the Cauſe of the <hi>Quakers</hi> remains the ſame ſtill;
+<pb n="5" facs="tcp:95220:3"/>it concerns them to inſiſt upon their Charge againſt <hi>T. H,</hi> and all that abet him in his <hi>Fictitious Forged Dialogues,</hi> wherein he hath evilly preſented them, and their Principles to the Nation: Now if this <hi>Jeremy</hi> (who was deputed to be one of the three or four on the <hi>Baptiſts</hi> Part at <hi>Barbican</hi>) will appear in the ſtead of <hi>T. H.</hi> &amp;c. and anſwer to their Charge of <hi>Forgery,</hi> &amp;c. they will be ready to meet him publickly as Time and Place ſhall be agreed upon; but as ſingle <hi>Jeremy</hi> they have no Reaſon to regard his <hi>daring interpoſing Challenge,</hi> till they are heard concerning <hi>T. H.</hi> from his firſt <hi>Dia<g ref="char:EOLhyphen"/>logue</hi> to the Book, entituled, <hi>The Quakers Appeal anſwered;</hi> or till <hi>T. H.</hi> confeſſeth and acknowledgeth his Folly and <hi>
+                  <g ref="char:V">Ʋ</g>nchriſtian</hi> Behaviour towards them.</p>
+            <p>In my Return to his <hi>Scandalous Paper,</hi> I ſaid, <q>I did not count it worth my Time to write or diſcourſe with him about Matters rela<g ref="char:EOLhyphen"/>ting to the pure <hi>Chriſtian</hi> Religion, barely as <hi>J. I.</hi> and that as ſo he was not worth diſputing with;</q> and I make the ſame Account ſtill and ſay the ſame again; and <hi>W. Penn</hi> hath not contradicted me there<g ref="char:EOLhyphen"/>in, in ſaying at the <hi>Barbican-Meeting,</hi> 
+               <q>About the Beginning of his Diſcourſe with him, he had found him a pretty fair Adverſary;</q> which had chiefly Relation to the Experience he had of him nigh two Years before at <hi>Wickam,</hi> at which Time he behaved himſelf more fairly then of late; and <hi>W. P.</hi> might expect the like then, and ſay, 'He was as free to diſpute with him as any: But my Say<g ref="char:EOLhyphen"/>ing is ſince <hi>Barbican</hi> and <hi>Wheeler-Street-Meeting,</hi> occaſioned by my Obſervation both of the Matter and Manner of his Diſcourſe and unſavory Behaviour, and ſince his vapouring <hi>unchriſtian</hi> Challenge came to Light, and his manifeſting himſelf a Confederate with <hi>T. H.</hi> to reſcue him in his <hi>Forgeries,</hi> &amp;c. And though <hi>W. P.</hi> ſaid ſo then, yet ſince he hath given him occaſion enough to be of my Mind now, he having verified that Saying in Scripture, EVIL MEN AND SE<g ref="char:EOLhyphen"/>DUCERS WAX WORSE AND WORSE.</p>
+            <p>And if he underſtands himſelf commended by <hi>W. R.</hi> for a Con<g ref="char:EOLhyphen"/>ſcientious, tender-hearted, Zealous Diſputer, who hath the Glo<g ref="char:EOLhyphen"/>ry of God, the Good of Souls, and the Proſperity of the <hi>Chriſtian</hi> Religion chiefly in his Eye; in what he undertakes he very groſly miſtakes himſelf, and abuſeth him, as he may plainly ſee in his laſt Sheet in Anſwer to his <hi>Sober Requeſt,</hi> &amp;c. Now it is becauſe he is not ſuch an one, and profeſſeth <hi>Chriſtianity,</hi> and the Office of a <hi>Miniſter</hi> thereof, and talks of <hi>God's Aſſiſtance</hi> in a Work he never
+<pb n="6" facs="tcp:95220:4"/>ſet him about; that I and <hi>W. P.</hi> alſo ſlight ſingle <hi>Jeremy,</hi> and count him not worth diſputing with.</p>
+            <p>I ſaid alſo in my Return, <q>That his Tongue <hi>(as the Proverb goes)</hi> is <hi>no Slander</hi> with many grave Citizens and moderate People, who walk not with the <hi>Quakers;</hi>
+               </q> and he need not doubt but that I am of the ſame Mind, and think ſo ſtill, and yet not <hi>baſely contradict my ſelf,</hi> in ſaying, <q>I never met with more Untruths in ſo few Lines as in his Paper, and to call them <hi>Slanderous Sayings, Lyes and groſs Abuſes</hi> (though I uſe the Proverb) is <hi>no Contradiction;</hi>
+               </q> for though many <hi>grave Citizens,</hi> &amp;c. do know his Tongue not ſufficient to faſten a <hi>Slander</hi> upon a Perſon or People; and that his Repu<g ref="char:EOLhyphen"/>tation, as a <hi>Chriſtian,</hi> is little accounted of by many that know him; and that what proceeds from him is not ſufficient to ſtain or defile the Reputation of others, eſpecially as <hi>Chriſtians;</hi> yet it doth not follow but that his <hi>Lyes</hi> are <hi>Lyes,</hi> and his <hi>ſlanderous Sayings</hi> are <hi>ſlanderous Sayings,</hi> and his <hi>groſs Abuſes</hi> are ſo in them<g ref="char:EOLhyphen"/>ſelves, and may be called ſo; and ſome that are not grave Citizens and moderate People, who know not him, may be traduced by them and deceived ſo far as to believe them to be true, to prevent which is the Occaſion of thoſe Lines.</p>
+            <p>And further, I perceive <hi>Jeremy</hi> thinks it hard, that I ſhould ſay in my late <hi>Return,</hi> &amp;c. <q>That in my Judgment he was fitter to ap<g ref="char:EOLhyphen"/>pear pear upon a <hi>Mountebanck's</hi> Stage, then in a ſolemn Religious <hi>Chri<g ref="char:EOLhyphen"/>ſtian</hi> Aſſembly to diſpute for <hi>Chriſtianity:</hi>
+               </q> And he ſeems offended alſo that I ſay, <q>
+                  <hi>Chriſtianity</hi> needs no <hi>Mercenary Agents</hi> to pro<g ref="char:EOLhyphen"/>pagate its Cauſe, nor the corrupt Weapons of a <hi>Sophiſter</hi> to defend it: Verily, I do ſeriouſly tell <hi>Jeremy,</hi> I ſhould be glad to ſee Cauſe to alter my Judgment, as to the <hi>firſt;</hi>
+               </q> the <hi>ſecond</hi> no Judici<g ref="char:EOLhyphen"/>ous <hi>Chriſtian</hi> will deny; but whether he be the Man, I leave at preſent upon his own Conſcience further to conſider, and do truly tell him, he extreamly miſtakes me in charging me with <hi>Malice and Railing Accuſation, and end avours to blow up his Reputation, and blaſt his Credit:</hi> I have ſo much Love to him, that I heartily wiſh he had much more of both then he hath, that he might be a greater Ornament to his Profeſſion<g ref="char:punc">▪</g> and honour that <hi>Chriſtianity</hi> he in Words profeſſeth: I have no Malice in my Mind towards him, nor no Man upon the Face of the Earth; it's inconſiſtant with the Nature of <hi>Chriſtianity:</hi> I would have him read over my Lines a<g ref="char:EOLhyphen"/>gain,
+<pb n="7" facs="tcp:95220:4"/>and conſider them better; and if his Day of Viſitation be not quite over, I deſire he may come to witneſs that Infallible Evi<g ref="char:EOLhyphen"/>dence of a true <hi>Chriſtian</hi> within himſelf, which <hi>no Impoſtor</hi> can give (viz.) <hi>The Spirit it ſelf bearing Witneſs with his Spirit, that he is a Child of God, &amp;c.</hi> he will have more Cauſe to rejoyce and glory in this then in the Strength of his Arguments, and <hi>Sophiſtical</hi> Rea<g ref="char:EOLhyphen"/>ſoning.</p>
+            <p>This ſore Evil is near this Man, to be quick ſighted abroad and blind at home, and to meaſure others by his own State and private Spirit, cenſure others for his own Faults, which he is manifeſtly guil<g ref="char:EOLhyphen"/>ty of in his <hi>Sober Requeſt;</hi> to be ſure he hath ſhewed little civil Edu<g ref="char:EOLhyphen"/>cation; neither hath he and ſome of his Brethren refrained from any Means to endeavour to blow up the <hi>Quakers</hi> Reputation in the higheſt Concern, even as <hi>Chriſtians:</hi> Now as ſo, I do not find by Converſe among Men, that he himſelf hath much to blow up, or much Credit to blaſt, either among the <hi>Baptiſts</hi> or others (ſome refuſing to read any Book or Paper about Religion, wherein he is concerned) for my Part, I ſay truly, I write it more with Sorrow and Grief of Heart, then with Delight to upbraid him, that he who hath been, not only a long Profeſſor of <hi>Chriſtianity,</hi> but alſo a pretended Miniſter of it, ſhould have ſo little of either.</p>
+            <p>And he needs not queſtion the goodneſs of the <hi>Quakers Cauſe,</hi> nor the truth of <hi>Immediate Inſpiration,</hi> which they are Witneſſes of (notwithſtanding he ſeems to jeer at it) becauſe they count them<g ref="char:EOLhyphen"/>ſelves no whit oblieg'd to meet him upon his own <hi>daring Challenge;</hi> for as the Controverſie now ſtands, they judge it a meer <hi>Evaſion,</hi> and wholy Impertinent to the <hi>Cauſe</hi> depending betwixt them and the <hi>Baptiſt;</hi> and every Impartial Obſerver of the whole Series of the Matter will readily be perſwaded ſo to conclude.</p>
+            <p>They have not been, nor are not backward to give a Reaſon of their Faith, and an Account of their Religion with Meekneſs and Fear to every one that in Honeſty and Seriouſneſs of Spirit asketh them; but ſome <hi>Scribes, Phariſees</hi> and <hi>Hypocrites</hi> may ask Enſnaring Queſtions in Enmity and Prejudice, which no true <hi>Chri<g ref="char:EOLhyphen"/>ſtian</hi> is oblieged to anſwer in their Way, Will and Time, and have good Example for it in the holy Scriptures.</p>
+            <p>And they have been, and are willing to uſe all Means to remove Ignorance and Fooliſhneſs out of the Hearts of all Men, that they
+<pb n="8" facs="tcp:95220:5"/>may come to Repentance and Acknowledgment of the Truth, and be ſaved; and have not behaved themſelves as a People of lofty diſ<g ref="char:EOLhyphen"/>daining Tempers (as thou falſly ſuggeſteſt) but with Meekneſs have endeavoured to inſtruct thoſe that oppoſe themſelves; and diſpute and reaſon with them, though they were not the Mouth of a Par<g ref="char:EOLhyphen"/>ty, &amp;c. But what if they count <hi>Jeremy</hi> (for divers Reaſons) not worth diſputing with, ſeeing he will not be ſatisfied without; I will tell him one of my chiefeſt Reaſons, which is, becauſe it appears to me that he hath loſt Tenderneſe of Heart, Senſibleneſs of Spirit, Conſciencious Zeal, and Circumſpectiveneſs, which I queſtion not, but he had a Meaſure of, in the Infancy of his Religion, or the Day of the Viſitation of God's Love, which he was once Partaker of: But now he is become as the <hi>Sale which hath loſt its Savour,</hi> and all his Treaſury of acquired Attainment is but as the <hi>Old Manna,</hi> which had Worms in it, and ſtank, and is now as the <hi>deaf Adder,</hi> which will not hear the Voice of the <hi>Charmer;</hi> &amp;c. and till he better demon<g ref="char:EOLhyphen"/>ſtrate himſelf a <hi>Chriſtian</hi> in Life, Doctrine and Practice, and layes aſide his Crafty, Acquired, Artificial, Sophiſtical Way of Reaſo<g ref="char:EOLhyphen"/>ning, by which he deceives the Ignorant, and ſhew forth his Re<g ref="char:EOLhyphen"/>pentance from dead work, I ſhall remain of the ſame Mind; and in the mean Time deſire him to take Notice of the Advice of <hi>W. Penn</hi> in his laſt Sheet in Anſwer to his pretended <hi>Sober Requeſt,</hi> viz. <hi>That he give better Evidence of his own</hi> Chriſtianity, <hi>before he endea<g ref="char:EOLhyphen"/>vour to</hi> unchriſtian <hi>others.</hi>
+            </p>
+            <p>And to help him herein, I alſo counſel him to take the Advice of his Brother <hi>W. L.</hi> in his Letter to him after <hi>Barbican</hi>-Meeting, 12. <hi>Octob.</hi> 74. and conſider his late Book alſo, which is not to be counted a <hi>Libel,</hi> though but <hi>W. L.</hi> affixt to it: Now if he will not take the Counſel of his Friends, nor of thoſe he counts his Enemies, it argues, he is not endued with that Wiſdom which is from above, which inclines thoſe that have it to be eaſily entreated to that which is good.</p>
+            <p>And ſeeing he hath taken Pains to ſet forth ſome of his Opinions divulged in <hi>Croyden-Market-Place,</hi> and hath omitted the reſt, I think it neceſſary to inſert them all, as in the Book, which are as followeth.
+<pb n="9" facs="tcp:95220:5"/>
+               <list>
+                  <item>
+                     <hi>THe ſame Body that is now the Habitation of the Soul and Spirit, ſhall riſe again, and enter with the Soul united, into everlaſting Joy or Torment.</hi>
+                  </item>
+                  <item>
+                     <hi>It may be in the great Day of Judgment God may receive the</hi> Hea<g ref="char:EOLhyphen"/>then <hi>to Glory; but it is more then they know whether he will or no: For thoſe People that have not the Scriptures among them in common, have no Knowledge of their future Eſtate.</hi>
+                  </item>
+                  <item>
+                     <hi>All the Light in men could never reach them, diſcover or re<g ref="char:EOLhyphen"/>veal unto them,</hi> That Chriſt was born of a Virgin, and that he ſuffered, &amp;c. <hi>It may tell them, that Blaſphemy and Drunk<g ref="char:EOLhyphen"/>enneſs, &amp;c. is Sin; but could never tell that God would ſave them.</hi>
+                  </item>
+                  <item>
+                     <hi>I do deny that every man is lighted with the Light of Chriſt; for the Scripture ſaith,</hi> That many are in Darkneſs, and ſtumble, be<g ref="char:EOLhyphen"/>cauſe there is no Light in them.</item>
+                  <item>
+                     <hi>That the Light which lighteth every man is not the Light of Chriſt, yet it is a Divine Light.</hi>
+                  </item>
+                  <item>
+                     <hi>There is a Natural Light in all men, which may ſhew them Sin, and this Natural Light is Divine;</hi> for every Gift of God is per<g ref="char:EOLhyphen"/>fect; <hi>therefore Divine.</hi>
+                  </item>
+                  <item>
+                     <hi>Men may ſin out all Senſe of Sin, and become Darkneſs, and have no Light in them.</hi>
+                  </item>
+                  <item>
+                     <hi>The Sun may ſhine, and ſome men may ſhut their Eyes, and will not ſee it; and ſome are blind, and cannot ſee it: Are they therefore en<g ref="char:EOLhyphen"/>lightned by it? So likewiſe, &amp;c.</hi>
+                  </item>
+                  <item>
+                     <hi>I will ſtick by the preſent Tranſlation of the New Teſtament, which was effected by Twenty or Thirty Learned Wiſe Men, by the King's Authority; and if I underſtood</hi> Greek <hi>never ſo well, it would be un<g ref="char:EOLhyphen"/>mannerly to contradict them.</hi>
+                  </item>
+                  <pb n="10" facs="tcp:95220:6"/>
+                  <item>
+                     <hi>The Light that is come into the World was deſigned of God to en<g ref="char:EOLhyphen"/>lighten every man; but Thouſands are not enlightened by it.</hi>
+                  </item>
+                  <item>George Whitehead <hi>and</hi> William Gibſon <hi>are not enlightened with he Light of Chriſt; though I grant, that there is a Light an every man, which is Divine, yet not the Light of Chriſt.</hi>
+                  </item>
+                  <item>
+                     <hi>I deny that the Light of God is one with the Light of Chriſt; the Father and Son are Relatives, but not one; the Light of the Father, Son and Spirit are Divine, but not one.</hi>
+                  </item>
+                  <item>
+                     <hi>That which is Divine in God, becomes Natural when given to men.</hi>
+                  </item>
+                  <item>
+                     <hi>Some in the World are without Chriſt; therefore ſome in the World are without the Light of Chriſt.</hi>
+                  </item>
+               </list>
+            </p>
+            <p>Some of theſe, he ſaith, <hi>are laid broakenly down, &amp; not in his Words;</hi> he knows I ſent him a Copy of them before they were printed; why would he not tell me ſo before now? His ſaying ſo now ſignifies lit<g ref="char:EOLhyphen"/>tle; if I had noted them wrong, he ſhewed a lofty diſdainful Tem<g ref="char:EOLhyphen"/>per, that he would not ſhew me wherein in its Seaſon; his ſay<g ref="char:EOLhyphen"/>ing ſo now ought not to be regarded: They are all ſpoken briefly to in the Book aforeſaid; and the Abſurdneſs and Ridiculouſneſs of many of them is obvious to every Judicious Impartial Reader, to which I refer; the Title of the Book is, <hi>The <g ref="char:V">Ʋ</g>niverſality of the Light aſſerted,</hi> and to be had at ſeveral Shops in and about <hi>London.</hi>
+            </p>
+            <p>Now, ſince his being at <hi>Croyden,</hi> where he ſpent ſome time in Op<g ref="char:EOLhyphen"/>poſing that word <hi>[Inlighteneth]</hi> in the firſt of <hi>John,</hi> Verſe the 9th, contending againſt our Friends ſaying <hi>That Chriſt Inlightens every Man, &amp;c.</hi> in a Book of his printed in the year 1656. Title, <hi>Innocency above Impudency,</hi> pag. 16. <hi>viz.</hi>
+               <q>
+                  <hi>My Book, call'd</hi> Qua<g ref="char:EOLhyphen"/>kers Quaking, <hi>pag.</hi> 49. <hi>viz. I have theſe Words; I did not oppoſe the ſaying of</hi> John, <hi>which is, That Chriſt Inlightene every One that comes into the World;</hi>
+               </q> ſo if I had met with it timely, it would have ſaved me that labour of ſetting before him, at the end of my
+<pb n="11" facs="tcp:95220:6"/>Book (if he would have believed himſelf) how that Verſe is read in divers Natural Tongues.</p>
+            <p>But to proceed to the Concluſion with <hi>Jeremy</hi> at preſent, he ſaith, <q>
+                  <hi>He doth once more ſignifie in the Behalf of all</hi> Chriſtians <hi>gene<g ref="char:EOLhyphen"/>rally, and of the</hi> Baptiſts <hi>in particular, offer to prove the</hi> Quakers <hi>No</hi> Chriſtians, <hi>and their Miniſters Impoſtors:</hi>
+               </q> I only, in ſhort, ſay thus much, That the Generallity of <hi>Chriſtians</hi> hath not imployed him, as their Agent (if they ſhould, their Cauſe would be at a low Ebb) and for ought I underſtand, <hi>T. H.</hi> and the <hi>Bap<g ref="char:EOLhyphen"/>tiſts</hi> in particular, deny and diſown their Delegating of him, though he pretended they had, at <hi>Wheeler-ſtreet</hi>-Meeting: So, for what I ſee, he would ſam be a Volunteer, Reformado, or Mer enary; and gives himſelf out to be ſuch, &amp; ready to do the work thereof before he is liſted; This ſhews he has a Giddy Head, and a Strong Con<g ref="char:EOLhyphen"/>ceit, and would be doing ſomething which no <hi>Chriſtian</hi> will thank him for. Indeed, <hi>Jeremy,</hi> I adviſe thee, as before, to take <hi>Willi<g ref="char:EOLhyphen"/>am Penn</hi>'s Counſel, and prove thy ſelf a <hi>Chriſtian</hi> firſt, and let thy Life and Converſation preach as loud as thy Tongue, or elſe beſilent for the future.</p>
+            <p>Now if the <hi>Quvkers</hi> cannot prevail with the <hi>Baptiſt</hi> to have a <hi>Publick Meeting,</hi> wherein to prove their Charge againſt <hi>Thomas Hicks</hi> and thoſe that joyn with him in his <hi>Ficctious Dialogues</hi> People may clearly perceive they are not able to abide the Teſt.</p>
+            <p>Therefore now further: let this <hi>Jeremy, T. Hickr</hi> and the reſt agree together to give a Deſcription of that <hi>Chriſtian</hi> and <hi>Chriſtian Preacher</hi> in all his Parts, Qualifications, Doctrines, Practices and Obedience, which they charge the <hi>Quaker</hi> to be none of: And in the firſt Place prove and demonſtrate themſelves ſuch. and they and the World may receive an Anſwer thereto; and ſo leave all to the Conſciences of the Judicious, and all People whoſe-Profit, Infor<g ref="char:EOLhyphen"/>mation &amp; Edification the <hi>Quakers</hi> deſire with all their Hearts, which may be a Means to bring ſome Iſſue to what of late hath paſt be<g ref="char:EOLhyphen"/>tween both.</p>
+            <closer>
+               <signed>William Shewen.</signed>
+               <dateline>Southwark, <date>
+                     <hi>the 9th of the 9th Month,</hi> 1674.</date>
+               </dateline>
+            </closer>
+            <trailer>THE END.</trailer>
+         </div>
+      </body>
+   </text>
+</TEI>
